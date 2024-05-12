@@ -1,3 +1,121 @@
-.card{
-    
+
+.middle-card{
+    background-color:white;
+    min-width: 1500px;
+    height: 1000px;
+    border-radius: 8px;
+
 }
+
+#cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body {
+    background-color: white;
+}
+
+:root {
+    --grid-cols: 1;
+    --grid-rows: 1;
+  }
+  
+  #table {
+    display: grid;
+    /*gap: 0.2em;*/
+    grid-template-rows: repeat(var(--grid-rows), 1fr);
+    grid-template-columns: repeat(var(--grid-cols), 1fr);
+    border: 0.5px solid black;
+  }
+
+  #header {
+    display: grid;
+    /*gap: 0.2em;*/
+    grid-template-rows: repeat(var(--grid-rows), 1fr);
+    grid-template-columns: repeat(var(--grid-cols), 1fr);
+    border: 0.5px solid black;
+  }
+  
+  .grid-item {
+    background-color: inherit;
+    padding: 1em;
+    border: 0.5px solid black;
+    text-align: center;
+  }
+  .player-scoreboard{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #78EAB3 ;
+    border-radius: 50px;
+    width: 294px;
+    height: 60px;
+    margin: 10px;
+  }
+
+  .top-board{
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .bubble-score{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px; 
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color:rgba(46, 245, 126, .15);
+    color:#78EAB3;
+  }
+
+  .to-the-right{
+    float: right;
+  }
+
+  /* The Modal (background) */
+.dialog {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .dialog-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+  }
+  
+  #dialog-answer{
+      display: none;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
