@@ -43,34 +43,9 @@
     padding: 1em;
     border: 0.5px solid black;
     text-align: center;
-  }
-  .player-scoreboard{
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    align-items: center;
-    border: 5px solid #78EAB3 ;
-    border-radius: 50px;
-    width: 294px;
-    height: 60px;
-    margin: 10px;
-  }
-
-  .top-board{
-    display: inline-flex;
-    align-items: center;
-    justify-content: flex-end;
-  }
-
-  .bubble-score{
-    text-align: center;
-    vertical-align: middle;
-    line-height: 50px; 
-    width: 50px;
-    height: 50px;
-    border-radius: 50px;
-    background-color:rgba(46, 245, 126, .15);
-    color:#78EAB3;
+    color: #F4AC44;
+    background-color: #0F2EA7;
+    font-size: 20px;
   }
 
   .to-the-right{
@@ -118,4 +93,30 @@
     text-decoration: none;
     cursor: pointer;
   }
+
+  #player-section{
+    width: 300px;
+    text-align: center;
+    margin: 20px;
+  }
+
+  #player-section div{
+    margin-top: 20px;
+  }
+
+  #player-section button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+
+  .player-name{
+    font-size: 40px;
+  }
+
+  .score{
+    font-size: 40px;
+  }
+
+
 

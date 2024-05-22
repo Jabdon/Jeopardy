@@ -1,0 +1,25 @@
+Who delivered the iconic “I Have a Dream” speech during the March on Washington in 1963?/Dr. Martin Luther King Jr./topic-1-100
+In what language was the Old Testament written?/Hebrew/topic-2-100
+What does NBA stand for?/National Basketball Association/topic-3-100
+/topic-4-100
+Which pizza parlor chain first developed and still sells the (in)famous stuffed crust pizza?/Pizza Hut/topic-5-100
+Who is the “Queen of Soul” known for hits like “Respect”/Aretha Franklinc/topic-1-200
+Wrote the book of Acts?/Luke/topic-2-200
+How many superbowl did Tom Brady win throughout his career/Seven superbowl/topic-3-200
+/topic-4-200
+/topic-5-200
+What was Muhammad Ali's original name?/Cassius Clay/topic-1-300
+Who was the King of Judea when Jesus was born?/Herold The Great/topic-2-300
+Which country Nikola Jokić is from/Serbia/topic-3-300
+/topic-4-300
+/topic-5-300
+Which filmmaker helmed the groundbreaking superhero film “Black Panther”?/Ryan Coogler/topic-1-400
+How many days was Lazarus dead before Jesus came to visit?/Four/topic-2-400
+Which athlete won the largest number of gold medals at the Olympic Games/Michael Phelps/topic-3-400
+/topic-4-400
+/topic-5-400
+Who is known for her autobiographical work “I Know Why the Caged Bird Sings”, which describes her life up to the age of 17?/Maya Angelou/topic-1-500
+Name the shortest verse in the Bible?/ Jesus wept. (Gospel of John, chapter 11, verse 35)/topic-2-500
+How many players are on a baseball team?/9/topic-3-500
+/topic-4-500
+/topic-5-500
